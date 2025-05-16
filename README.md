@@ -28,6 +28,14 @@ This solution enables you to:
 
 ---
 
+## Outputs
+
+![img](https://github.com/dhruv-218/Automation_email/blob/main/mail_output.jpeg)
+![filtered_output.xlsx](https://github.com/dhruv-218/Automation_email/blob/main/filtered_output.xlsx)
+![filtered_output.xlsx in pdf](https://github.com/dhruv-218/Automation_email/blob/main/filtered_output%20(1).pdf)
+
+
+
 ## Requirements
 
 - Python 3.7 or higher
